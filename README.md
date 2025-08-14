@@ -43,3 +43,12 @@
 
 ## Modos de Operação ⚙️🛠️
 Os modos são: `Seguidor de linha`, `Estimativa de Atrito` e `Controle IR`
+
+## Bibliotecas Utilizadas 📚
+```bash
+Wire.h
+LiquidCrystal_I2C.h
+MPU9250.h
+IRremote.h
+AFMotor.h
+```
