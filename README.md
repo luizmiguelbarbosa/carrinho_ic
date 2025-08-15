@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-## Divisão de Tarefas do Projeto 🌌
+## Divisão de Tarefas do Projeto ➗
 
 <p align="center">
 <table align="center">
