@@ -40,6 +40,39 @@
   </tr>
 </table>
 
+## Divisão de Tarefas do Projeto 🌌
+
+<p align="center">
+<table align="center">
+  <tr>
+    <th>Time</th>
+    <th>Tarefas</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gustavocharamba?tab=overview&from=2025-08-01&to=2025-08-11">Gustavo Charamba</a></td>
+    <td>Programação do seguidor de linha</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lgss0">lgss0</a></td>
+    <td>Programação da estimativa de atrito</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SmouraCodeX">SmouraCodeX</a></td>
+    <td>Integração elétrica e do atrito</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lebb8">lebb8</a></td>
+    <td>Documentação e testes finais</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/luizmiguelbarbosa">luizmiguelbarbosa</a></td>
+    <td>Montagem mecânica e estrutura do chassi</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/miqueias-santos">miqueias-santos</a></td>
+    <td>Controle remoto e modos de operação</td>
+  </tr>
+</table>
 
 ## Modos de Operação ⚙️🛠️
 Os modos são: `Seguidor de linha`, `Estimativa de Atrito` e `Controle IR`
