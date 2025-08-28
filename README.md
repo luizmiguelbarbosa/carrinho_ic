@@ -12,13 +12,13 @@
     <td align="center">
       <a href="https://github.com/lgss0">
         <img src="https://avatars.githubusercontent.com/lgss0" width="100px;" alt="lgss0"/><br />
-        <sub><b>lgss0</b></sub>
+        <sub><b>Luiz Gabriel</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SmouraCodeX">
-        <img src="https://avatars.githubusercontent.com/SmouraCodeX" width="100px;" alt="SmouraCodeX"/><br />
-        <sub><b>SmouraCodeX</b></sub>
+      <a href="https://github.com/SmouraCodeX](https://github.com/rafael-smoura">
+        <img src="https://avatars.githubusercontent.com/rafael-smoura" width="100px;" alt="SmouraCodeX"/><br />
+        <sub><b>Rafael</b></sub>
       </a>
     </td>
     <td align="center">
