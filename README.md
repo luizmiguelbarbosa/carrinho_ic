@@ -24,7 +24,7 @@
     <td align="center">
       <a href="https://github.com/lebb8">
         <img src="https://avatars.githubusercontent.com/lebb8" width="100px;" alt="lebb8"/><br />
-        <sub><b>lebb8</b></sub>
+        <sub><b>Eduardo</b></sub>
       </a>
     </td>
     <td align="center">
